@@ -37,3 +37,9 @@ article a {
 article a:hover {
     color: var(--c-orange);
 }
+
+article section {
+    border: 3px solid var(--c-cyan);
+    padding: 1em;
+    margin: 0.5em;
+}
