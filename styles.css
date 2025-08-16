@@ -59,3 +59,15 @@ nav ul {
     display: flex;
     justify-content: space-around;
 }
+
+aside {
+    color: var(--c-green);
+}
+
+aside a {
+    color: var(--c-red);
+}
+
+aside a:hover {
+    color: var(--c-blue);
+}
